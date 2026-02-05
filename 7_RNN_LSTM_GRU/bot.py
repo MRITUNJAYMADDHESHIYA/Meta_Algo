@@ -1,4 +1,4 @@
-#1. Win % - 44% on 1:1 Risk/Reward
+#1. Win % - 74% on 1:1 Risk/Reward
 #2. I have to work on it
 
 import os
